@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hud_banner.svg" alt="RON_OS Banner" width="100%">
+  <img src="output/hud_banner.svg" alt="RON_OS Banner" width="100%">
 </p>
 
 > **[ SYSTEM DIRECTIVE ]** Software developer specializing in building production-quality full-stack applications and scalable backend systems. Published ML researcher with hands-on experience in Deep Learning and RAG architectures. Certified by Amazon & Google. Eager to contribute to impactful products.
@@ -15,9 +15,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VIVEKVRON/VIVEKVRON/output/dist/github-contribution-grid-snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VIVEKVRON/VIVEKVRON/output/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VIVEKVRON/VIVEKVRON/output/dist/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VIVEKVRON/VIVEKVRON/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VIVEKVRON/VIVEKVRON/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VIVEKVRON/VIVEKVRON/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
