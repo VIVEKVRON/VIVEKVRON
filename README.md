@@ -7,8 +7,8 @@
 ### 📊 TACTICAL READOUT
 
 <p align="center">
-  <img src="https://my-github-stats.vercel.app/api?username=VIVEKVRON&show_icons=true&theme=transparent&hide_border=false&bg_color=050A15&title_color=00F0FF&text_color=0088AA&icon_color=FFB300&border_color=00F0FF" height="192" alt="GitHub Stats" />
-  <img src="https://my-github-stats.vercel.app/api/top-langs/?username=VIVEKVRON&layout=compact&theme=transparent&hide_border=false&bg_color=050A15&title_color=00F0FF&text_color=0088AA&icon_color=FFB300&border_color=00F0FF" height="192" alt="Top Languages" />
+  <img src="https://my-github-stats-one-xi.vercel.app/api?username=VIVEKVRON&show_icons=true&theme=transparent&hide_border=false&bg_color=050A15&title_color=00F0FF&text_color=0088AA&icon_color=FFB300&border_color=00F0FF" height="192" alt="GitHub Stats" />
+  <img src="https://my-github-stats-one-xi.vercel.app/api/top-langs/?username=VIVEKVRON&layout=compact&theme=transparent&hide_border=false&bg_color=050A15&title_color=00F0FF&text_color=0088AA&icon_color=FFB300&border_color=00F0FF" height="192" alt="Top Languages" />
 </p>
 
 ### ⚡ ENERGY GRID (CONTRIBUTIONS)
