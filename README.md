@@ -1,7 +1,10 @@
 <div align="center">
-  <h1>Vivek V Ron</h1>
-  <p><b>AI/ML Engineer & Full-Stack Developer</b></p>
-  <p>Building scalable backend systems, context-aware AI pipelines, and high-performance modern web apps.</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=250&section=header&text=Vivek%20V%20Ron&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=AI%2FML%20Engineer%20%26%20Full-Stack%20Developer&descAlignY=75&descSize=22&descColor=ffffff" alt="Vivek V Ron Banner" />
+  
+  <br/>
+  <a href="https://github.com/VIVEKVRON">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Building+scalable+backend+systems;Architecting+context-aware+AI+pipelines;Developing+high-performance+web+apps" alt="Typing effect" />
+  </a>
   
   <p>
     <a href="https://github.com/VIVEKVRON" target="_blank">
