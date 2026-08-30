@@ -72,7 +72,10 @@ Gamified carbon accounting platform with predictive footprint analytics and real
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VIVEKVRON&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Vivek's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VIVEKVRON&theme=radical" alt="Vivek's GitHub Stats" />
+  <br/>
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=VIVEKVRON&theme=radical&hide_border=true" alt="Vivek's GitHub Streak" />
 </div>
 
 <br/>
