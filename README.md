@@ -91,7 +91,7 @@ Gamified carbon accounting platform with predictive footprint analytics and real
 ### 🎮 Contributions
 
 <div align="center">
-  <img src="game.gif" alt="GitHub Space Shooter Contributions Game" width="100%" />
+  <img src="game.gif" alt="GitHub Space Shooter Contributions Game" />
 </div>
 
 ---
