@@ -37,7 +37,7 @@ I am a Software Developer with hands-on experience building production-quality f
 
 - 🔬 **Research:** Author of two IEEE conference papers (currently under peer review) focusing on Multimodal RAG architectures and automated waste sorting via CNN/YOLO.
 - 💻 **Currently Building:** High-performance web apps, AI decision-support systems, and enterprise backend platforms.
-- 🌐 **Portfolio:** Check out my [Interactive 3D Portfolio](https://github.com/VIVEKVRON/Portfolio) for a deeper dive into my work.
+- 🌐 **Portfolio:** Check out my [Interactive 3D Portfolio](https://vivek-v-ron.vercel.app) for a deeper dive into my work.
 
 ---
 
