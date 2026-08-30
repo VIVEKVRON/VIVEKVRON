@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=250&section=header&text=Vivek%20V%20Ron&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=AI%2FML%20Engineer%20%26%20Full-Stack%20Developer&descAlignY=75&descSize=22&descColor=ffffff" alt="Vivek V Ron Banner" />
+  <img src="banner.svg" alt="Vivek V Ron Banner" />
   
   <br/>
   <a href="https://github.com/VIVEKVRON">

@@ -1,0 +1,31 @@
+<svg width="800" height="250" viewBox="0 0 800 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117" />
+      <stop offset="50%" stop-color="#161B22" />
+      <stop offset="100%" stop-color="#090C10" />
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58A6FF" />
+      <stop offset="100%" stop-color="#79C0FF" />
+    </linearGradient>
+    <style>
+      .title { font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 800; font-size: 64px; fill: url(#textGrad); }
+      .subtitle { font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 500; font-size: 22px; fill: #C9D1D9; letter-spacing: 2px; }
+    </style>
+  </defs>
+  
+  <rect width="800" height="250" rx="15" fill="url(#grad)" />
+  
+  <g transform="translate(400, 110)">
+    <text x="0" y="0" class="title" text-anchor="middle">
+      Vivek V Ron
+    </text>
+    <text x="0" y="45" class="subtitle" text-anchor="middle">
+      AI/ML ENGINEER &amp; FULL-STACK DEVELOPER
+    </text>
+  </g>
+  
+  <path d="M0 200 C 200 250, 600 150, 800 200 L 800 250 L 0 250 Z" fill="#238636" opacity="0.1" />
+  <path d="M0 220 C 300 260, 500 180, 800 220 L 800 250 L 0 250 Z" fill="#58A6FF" opacity="0.15" />
+</svg>
