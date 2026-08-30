@@ -16,6 +16,9 @@
     <a href="mailto:vivekvron@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-141414?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
+    <a href="https://www.instagram.com/ron.vivek?igsh=MTRkOWs0Y2luMm9uMA==" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-141414?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
   </p>
 
   <p>
@@ -79,6 +82,14 @@ A scalable enterprise task platform built with robust MVC patterns, Spring Secur
 #### [CarbonTrack Analytics Platform](https://github.com/VIVEKVRON/carbon-tracker)
 > **React 19, Spring Boot, REST APIs, GCP**  
 Gamified carbon accounting platform with predictive footprint analytics and real-time metrics tracking.
+
+---
+
+### 🎮 Contributions
+
+<div align="center">
+  <img src="game.gif" alt="GitHub Space Shooter Contributions Game" width="100%" />
+</div>
 
 ---
 
