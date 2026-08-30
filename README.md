@@ -91,11 +91,7 @@ Gamified carbon accounting platform with predictive footprint analytics and real
 ### 🎮 Contributions
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VIVEKVRON/VIVEKVRON/output/github-contribution-grid-snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VIVEKVRON/VIVEKVRON/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution game animation" src="https://raw.githubusercontent.com/VIVEKVRON/VIVEKVRON/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="game.gif" alt="GitHub Space Shooter Contributions Game" width="100%" />
 </div>
 
 ---
