@@ -19,6 +19,9 @@
     <a href="https://www.instagram.com/ron.vivek?igsh=MTRkOWs0Y2luMm9uMA==" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-141414?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
+    <a href="https://leetcode.com/u/dKgir85JqO" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-141414?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+    </a>
   </p>
 
   <p>
@@ -88,7 +91,11 @@ Gamified carbon accounting platform with predictive footprint analytics and real
 ### 🎮 Contributions
 
 <div align="center">
-  <img src="game.gif" alt="GitHub Space Shooter Contributions Game" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VIVEKVRON/VIVEKVRON/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VIVEKVRON/VIVEKVRON/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution game animation" src="https://raw.githubusercontent.com/VIVEKVRON/VIVEKVRON/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
