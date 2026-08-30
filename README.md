@@ -38,14 +38,24 @@ I am a Software Developer with hands-on experience building production-quality f
 ### 🛠️ Tech Stack
 
 <div align="center">
+  <!-- AI / ML Stack -->
   <img src="https://img.shields.io/badge/Python-141414?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-141414?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-141414?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-141414?style=flat-square&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-141414?style=flat-square&logo=keras&logoColor=white" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/NLP-141414?style=flat-square&logo=huggingface&logoColor=white" alt="NLP" />
+  <img src="https://img.shields.io/badge/RAG-141414?style=flat-square&logo=qdrant&logoColor=white" alt="RAG" />
+  <br/>
+  <br/>
+  <!-- Full-Stack & Cloud -->
   <img src="https://img.shields.io/badge/Java-141414?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-141414?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/PostgreSQL-141414?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/React-141414?style=flat-square&logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-141414?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/TypeScript-141414?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-141414?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/PostgreSQL-141414?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Google_Cloud-141414?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP" />
   <img src="https://img.shields.io/badge/Supabase-141414?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
 </div>
