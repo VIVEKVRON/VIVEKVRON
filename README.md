@@ -1,57 +1,81 @@
-<p align="center">
-  <img src="output/hud_banner.svg" alt="RON_OS Banner" width="100%">
-</p>
+<div align="center">
+  <h1>Vivek V Ron</h1>
+  <p><b>AI/ML Engineer & Full-Stack Developer</b></p>
+  <p>Building scalable backend systems, context-aware AI pipelines, and high-performance modern web apps.</p>
+  
+  <p>
+    <a href="https://github.com/VIVEKVRON" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://www.linkedin.com/in/vivek-ron-96a27a302" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:vivekvron@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 
-> **[ SYSTEM DIRECTIVE ]** Software developer specializing in building production-quality full-stack applications and scalable backend systems. Published ML researcher with hands-on experience in Deep Learning and RAG architectures. Certified by Amazon & Google. Eager to contribute to impactful products.
+  <p>
+    <em>Based in Hubli &bull; Living in Bengaluru</em>
+  </p>
+</div>
 
-### 📊 TACTICAL READOUT
+---
 
-<p align="center">
-  <img src="https://my-github-stats-one-xi.vercel.app/api?username=VIVEKVRON&show_icons=true&theme=transparent&hide_border=false&bg_color=050A15&title_color=00F0FF&text_color=0088AA&icon_color=FFB300&border_color=00F0FF&v=1" height="192" alt="GitHub Stats" />
-  <img src="https://my-github-stats-one-xi.vercel.app/api/top-langs/?username=VIVEKVRON&layout=compact&theme=transparent&hide_border=false&bg_color=050A15&title_color=00F0FF&text_color=0088AA&icon_color=FFB300&border_color=00F0FF&v=1" height="192" alt="Top Languages" />
-</p>
+### 🚀 About Me
 
-### ⚡ ENERGY GRID (CONTRIBUTIONS)
+I am a Software Developer with hands-on experience building production-quality full-stack applications using **Java**, **Spring Boot**, and **React**. I specialize in designing scalable enterprise backend systems, working with cloud platforms (GCP), and applying Machine Learning to solve real-world problems.
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VIVEKVRON/VIVEKVRON/output/github-contribution-grid-snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VIVEKVRON/VIVEKVRON/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VIVEKVRON/VIVEKVRON/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+- 🔬 **Research:** Author of two IEEE conference papers (currently under peer review) focusing on Multimodal RAG architectures and automated waste sorting via CNN/YOLO.
+- 💻 **Currently Building:** High-performance web apps, AI decision-support systems, and enterprise backend platforms.
+- 🌐 **Portfolio:** Check out my [Interactive 3D Portfolio](https://github.com/VIVEKVRON/Portfolio) for a deeper dive into my work.
 
-### 🛠️ CORE TECHNOLOGIES
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-050A15?style=for-the-badge&logo=python&logoColor=FFB300" />
-  <img src="https://img.shields.io/badge/Java-050A15?style=for-the-badge&logo=openjdk&logoColor=00F0FF" />
-  <img src="https://img.shields.io/badge/JavaScript-050A15?style=for-the-badge&logo=javascript&logoColor=FFB300" />
-  <img src="https://img.shields.io/badge/Spring_Boot_3-050A15?style=for-the-badge&logo=springboot&logoColor=00F0FF" />
-  <img src="https://img.shields.io/badge/React.js_19-050A15?style=for-the-badge&logo=react&logoColor=00F0FF" />
-  <img src="https://img.shields.io/badge/PostgreSQL-050A15?style=for-the-badge&logo=postgresql&logoColor=00F0FF" />
-  <img src="https://img.shields.io/badge/Google_Cloud-050A15?style=for-the-badge&logo=googlecloud&logoColor=FFB300" />
-  <img src="https://img.shields.io/badge/Deep_Learning-050A15?style=for-the-badge&logo=scikitlearn&logoColor=00F0FF" />
-</p>
+### 🛠️ Tech Stack
 
-### 📂 ACTIVE PROTOCOLS (PROJECTS)
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+</div>
 
-| Project | Designation | Description |
-| :--- | :--- | :--- |
-| **AgriBot** | Hybrid AI | Multimodal precision agriculture decision support integrating DL and RAG pipelines. (IEEE paper under review) |
-| **Elite Task Manager** | Full-Stack | Task management app with clean MVC architecture, RESTful APIs, and real-time state. |
-| **CarbonTrack** | Full-Stack | Gamified footprint tracker with React 19 frontend and Spring Boot backend. |
-| **Candidate Ranking** | AI / NLP | Two-stage hybrid AI architecture for semantic search and candidate ranking. |
-| **Library System** | JavaFX | Desktop application for managing library inventory with real-time tracking. |
+---
 
-### 🔬 RESEARCH LAB
+### 🔥 Featured Projects
 
-* **Performance and Efficiency Trade-offs in Automated Waste Sorting between CNN and YOLO** (IEEE Conference - Under Review)
-* **AgriBot: A Hybrid Multimodal Architecture Integrating Deep Learning and RAG for Precision Agriculture** (IEEE Conference - Under Review)
+#### [Context-Aware Candidate Ranking Pipeline](https://github.com/VIVEKVRON/india-ai-hiring-challenge)
+> **RAG, ML, DL, FastAPI, Vector DB (Qdrant)**  
+Engineered a Two-Stage Hybrid AI architecture replacing boolean ATS keyword filters with a mathematically grounded semantic search system. Architected a broad dense retrieval infrastructure (bge-m3 Bi-Encoder) and deployed a Qwen3-Reranker-0.6B Cross-Encoder to parse and embed 10,000+ candidate profiles into a highly searchable vector space.
 
-### 🔗 COMM LINKS
+#### [AGRIBOT: Multimodal RAG Platform](https://github.com/VIVEKVRON/AgriBot-Smart-Farming)
+> **Python, RAG Architecture, Vector DB, FastAPI, React**  
+A multimodal AI decision-support system featuring vector search, contextual LLM inference, and low-latency API integration for precision agriculture.
 
-<p align="center">
-<a href="https://linkedin.com/in/vivek-ron-96a27a302"><img src="https://img.shields.io/badge/LinkedIn-050A15?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn"></a>
-<a href="mailto:vivekvron@gmail.com"><img src="https://img.shields.io/badge/Email-050A15?style=for-the-badge&logo=gmail&logoColor=FFB300" alt="Email"></a>
-</p>
+#### [Elite Task Manager](https://github.com/VIVEKVRON/elite-task-manager)
+> **Java, Spring Boot 3, Spring Security, PostgreSQL, React**  
+A scalable enterprise task platform built with robust MVC patterns, Spring Security authentication, and optimized database transactions.
+
+#### [CarbonTrack Analytics Platform](https://github.com/VIVEKVRON/carbon-tracker)
+> **React 19, Spring Boot, REST APIs, GCP**  
+Gamified carbon accounting platform with predictive footprint analytics and real-time metrics tracking.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VIVEKVRON&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Vivek's GitHub Stats" />
+</div>
+
+<br/>
+<div align="center">
+  <i>"Transforming complexity into seamless digital experiences."</i>
+</div>
