@@ -1,31 +1,58 @@
 <svg width="800" height="250" viewBox="0 0 800 250" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0D1117" />
-      <stop offset="50%" stop-color="#161B22" />
-      <stop offset="100%" stop-color="#090C10" />
-    </linearGradient>
-    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#58A6FF" />
-      <stop offset="100%" stop-color="#79C0FF" />
-    </linearGradient>
     <style>
-      .title { font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 800; font-size: 64px; fill: url(#textGrad); }
-      .subtitle { font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 500; font-size: 22px; fill: #C9D1D9; letter-spacing: 2px; }
+      @import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@700;800&amp;family=Space+Mono&amp;display=swap');
+      
+      .name {
+        font-family: 'Bricolage Grotesque', system-ui, sans-serif;
+        font-weight: 800;
+        font-size: 64px;
+        fill: #FFFFFF;
+        letter-spacing: -1px;
+      }
+      .role {
+        font-family: 'Space Mono', monospace;
+        font-weight: 400;
+        font-size: 16px;
+        fill: #888888;
+        letter-spacing: 4px;
+      }
+      .accent {
+        fill: #FFFFFF;
+        opacity: 0.8;
+      }
     </style>
+    <pattern id="blueprint-grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+    </pattern>
   </defs>
+
+  <!-- Background -->
+  <rect width="800" height="250" fill="#141414" />
   
-  <rect width="800" height="250" rx="15" fill="url(#grad)" />
-  
-  <g transform="translate(400, 110)">
-    <text x="0" y="0" class="title" text-anchor="middle">
+  <!-- Blueprint Grid -->
+  <rect width="800" height="250" fill="url(#blueprint-grid)" />
+
+  <!-- Corner Crosshairs -->
+  <!-- Top Left -->
+  <path d="M 20 10 L 20 30 M 10 20 L 30 20" stroke="#444444" stroke-width="2" />
+  <!-- Top Right -->
+  <path d="M 780 10 L 780 30 M 770 20 L 790 20" stroke="#444444" stroke-width="2" />
+  <!-- Bottom Left -->
+  <path d="M 20 220 L 20 240 M 10 230 L 30 230" stroke="#444444" stroke-width="2" />
+  <!-- Bottom Right -->
+  <path d="M 780 220 L 780 240 M 770 230 L 790 230" stroke="#444444" stroke-width="2" />
+
+  <!-- Content -->
+  <g transform="translate(400, 125)">
+    <text x="0" y="-10" class="name" text-anchor="middle">
       Vivek V Ron
     </text>
-    <text x="0" y="45" class="subtitle" text-anchor="middle">
-      AI/ML ENGINEER &amp; FULL-STACK DEVELOPER
+    <text x="0" y="40" class="role" text-anchor="middle">
+      MACHINE LEARNING &amp; SYSTEMS ENGINEER
     </text>
   </g>
   
-  <path d="M0 200 C 200 250, 600 150, 800 200 L 800 250 L 0 250 Z" fill="#238636" opacity="0.1" />
-  <path d="M0 220 C 300 260, 500 180, 800 220 L 800 250 L 0 250 Z" fill="#58A6FF" opacity="0.15" />
+  <!-- Subtle decorative line -->
+  <rect x="350" y="160" width="100" height="2" fill="#333333" />
 </svg>
